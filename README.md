@@ -31,13 +31,3 @@ ESCOPO DO PROJETO:
 ![4](https://github.com/GustavoPrad/Barbearia-Ninja-/assets/141376299/521df52c-78d0-4be4-80f9-a5ec29c0456f) ![5](https://github.com/GustavoPrad/Barbearia-Ninja-/assets/141376299/3181731c-d1da-4084-bc4c-8ee25e31db1a)
 
 
-
-
-* Confirmação de Agendamento (tela 4):
-- Resumo do Agendamento: Irá mostrar um resumo com os detalhes do serviço, barbeiro selecionado, data e hora agendadas.
-- Confirmação de Agendamento: Opção para os usuários confirmarem o agendamento após revisar os detalhes.
-
-* Agendamento confirmado (tela 5):
-- Uma tela que confirmará que horário foi marcado.
-
-
