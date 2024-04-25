@@ -28,7 +28,9 @@ ESCOPO DO PROJETO:
 - Calendário: Terá um calendário para que os usuários selecionem a data desejada para o serviço.
 - Horários: Permitirá que os usuários escolham o horário disponível para o serviço agendado.
 
-![4](https://github.com/GustavoPrad/Barbearia-Ninja-/assets/141376299/08428c6d-7d23-4e8a-94ec-ac00e523d490)
+![4](https://github.com/GustavoPrad/Barbearia-Ninja-/assets/141376299/521df52c-78d0-4be4-80f9-a5ec29c0456f) ![5](https://github.com/GustavoPrad/Barbearia-Ninja-/assets/141376299/3181731c-d1da-4084-bc4c-8ee25e31db1a)
+
+
 
 
 * Confirmação de Agendamento (tela 4):
