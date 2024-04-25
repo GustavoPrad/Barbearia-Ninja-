@@ -1,6 +1,8 @@
 # Barbearia-Ninja-
 Este aplicativo é uma solução desenvolvida como parte de um trabalho acadêmico, projetado para facilitar a marcação de horários em uma barbearia. Com uma interface intuitiva, os usuários podem selecionar um barbeiro, escolher uma data e horário disponíveis, tornando o agendamento de serviços de barbearia simples e conveniente.
 
+O acesso do código está disponível nas Branches, clique em uma das branches "master".
+
 
 Para criação do projeto, foi utilizado esse mockup como principal inspiração:
 
